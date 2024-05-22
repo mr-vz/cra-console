@@ -1,13 +1,12 @@
-//import logo from './logo.svg';
 import './App.css';
 import Accordion from './components/Accordion/Accordion';
 import {Rating} from "./components/Rating/Rating";
 import {OnOff} from "./components/OnOff/OnOff";
 
-function hello() {
-  debugger
-  console.log('hello!')
-}
+// function hello() {
+//   debugger
+//   console.log('hello!')
+// }
 //hello()
 
 //function declaration
