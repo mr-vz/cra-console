@@ -31,6 +31,7 @@ function App() {
       Article 2
         <OnOff value={true}/>
         <p>Lorem ipsum dolor</p>
+        <p>Lorem ipsum dolore</p>
     </div>
     // <div className="App">
     //   <header className="App-header">
