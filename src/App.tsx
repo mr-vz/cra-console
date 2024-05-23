@@ -36,6 +36,8 @@ function App() {
         <p>Lorem ipsum doloress</p>
         <p>develop/popup branch commit 1</p>
         <p>develop/popup branch commit 2</p>
+        <p>develop/login branch commit 1</p>
+        <p>develop/login branch commit 2</p>
     </div>
     // <div className="App">
     //   <header className="App-header">
